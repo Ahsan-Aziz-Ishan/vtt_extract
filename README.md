@@ -7,6 +7,8 @@
 
 # Instructions
 
+> `go mod download`
+
 > `go build vtt_extract.go`
 
 >`./vtt_extract path_to_media`
